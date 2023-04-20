@@ -1,0 +1,57 @@
+ul{
+    font-size: 15px;
+}
+.common{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header{
+    height: 300px;
+    background-color: black;
+    color: rgb(52, 55, 108);
+    line-height: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mainbody{
+    background-color:burlywood;
+}
+/*this is a comment*/
+.footer{
+    background-color: black;
+    color:aliceblue;
+    height: 25px;
+    line-height: 25px;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+nav{
+    background-color: rgb(227, 152, 152);
+    padding: 10px;
+    overflow: hidden;
+}
+nav a{
+    float: left;
+    color: black;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+nav a:hover{
+    background-color: #00bbff;
+}
+ol{
+    list-style-position: inside;
+}
+ul{
+    list-style-position: inside;
+}
